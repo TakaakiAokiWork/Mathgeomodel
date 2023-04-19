@@ -1,0 +1,10 @@
+remote_theme: pages-themes/tactile@v0.2.0
+title: 数理地理モデリング研究会
+description: Mathematical and geographical modelling for environmental humanities
+plugins:
+  - jekyll-remote-theme # add this line to the plugins list if you already have onetheme: jekyll-theme-minimal
+  - jekyll-sitemap
+author:
+  name: Takaaki Aoki
+  email: "takaaki.aoki.work@gmail.com"
+# google_analytics: [G-BXEGP1YWQD]
