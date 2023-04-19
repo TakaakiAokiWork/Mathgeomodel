@@ -8,7 +8,9 @@
     <div>
       {% assign date_format = site.minima.date_format | default: "%Y/%m/%d" %}
       {{ post.date | date: date_format }}
-      
+      {% if post.enddate %}
+      -- {{ post.enddate }}
+      {% endif %}
         <a class="post-link" href="{{ post.url | relative_url }}">
           {{ post.title | escape }}
         </a>
