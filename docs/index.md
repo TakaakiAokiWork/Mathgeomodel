@@ -15,8 +15,8 @@
 
 # 連絡先
 
-〒522-8522　滋賀県彦根市馬場1-1-1
-滋賀大学データサイエンス学部
-青木 高明
+〒522-8522　滋賀県彦根市馬場1-1-1<BR>
+滋賀大学データサイエンス学部<BR>
+青木 高明<BR>
 <span class="glyphicon glyphicon-envelope"></span>takaaki-aoki<span class="no-spam">nospamword</span>@biwako.shiga-u.ac.jp
 
