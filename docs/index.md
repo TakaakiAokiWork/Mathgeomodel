@@ -11,6 +11,7 @@
       {% if post.enddate %}
       &ndash; {{ post.enddate }}
       {% endif %}
+      <br>
         <a class="post-link" href="{{ post.url | relative_url }}">
           {{ post.title | escape }}
         </a>
