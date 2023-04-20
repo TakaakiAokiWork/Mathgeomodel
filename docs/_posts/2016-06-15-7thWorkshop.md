@@ -20,6 +20,7 @@ Satoshi Murayama (Kagawa University)
 
 ### 14:45-16:15: Part 1 (Lecture) 
 **“Family demography based on big individual-level historical population data”**
+
 Hao Dong (The Hong Kong University of Science and Technology)
 
 ### 16:15-16:30: Tea & Coffee
@@ -29,9 +30,11 @@ Hao Dong (The Hong Kong University of Science and Technology)
 
 Satoshi Murayama, Takaaki Aoki, Hiroko Nakamura and Toru Terao (Kagawa University)
 
-** ”Methodological and technical instruction for ‘China Multi-Generational Panel Datasets Series’ “ **
+**”Methodological and technical instruction for ‘China Multi-Generational Panel Datasets Series’“**
+
 Hao Dong (The Hong Kong University of Science and Technology)
-(http://www.icpsr.umich.edu/icpsrweb/ICPSR/series/265#skipto)
+
+[reference](http://www.icpsr.umich.edu/icpsrweb/ICPSR/series/265#skipto)
 
 
 ### 19:00- : Dinner
