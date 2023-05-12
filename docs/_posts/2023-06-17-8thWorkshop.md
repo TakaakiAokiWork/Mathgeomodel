@@ -1,43 +1,29 @@
 ---
-title: "人口と環境の数理地理モデリング in RIMS 2023"
-enddate: 2023-06-16
+title: "第8回 数理地理モデリング研究会 at 東北大学東京サテライト"
 ---
 
 # {{ page.title }}
 
 
-This workshop is supported by the Research Institute for Mathematical Sciences (RIMS), an International Joint Usage/Research Center located in Kyoto University.
-
-[COVID-19 updates for seminars in RIMS](https://www.kurims.kyoto-u.ac.jp/kyoten/ja/covid-19.html)
-
-
-# Dates
+# 日時
 {{ page.date | date: "%Y/%m/%d (%a)" }} {% if page.enddate %} &ndash; {{ page.enddate | date: "%Y/%m/%d (%a)"  }} {% endif %}
 
-# Venue
-Room 111, RIMS Research Building at North Campus [[Access Map](https://www.kurims.kyoto-u.ac.jp/kyoten/en/access.html)]
-and online (Zoom) 
+# 会場
+東北大学東京分室  会議室A
+
+東京都千代田区丸の内1-7-12　サピアタワー10階
+
+[アクセスマップ](https://www.bureau.tohoku.ac.jp/somu/tokyo/access.html)
+
 
 # Program
 ## {{ page.date | date: "%Y/%m/%d (%a)" }}
 
 ### 13:00-14:00 TBA
-秋山 祐樹 (東京都市大学 建築都市デザイン学部都市工学科) [[www]](https://akiyama-lab.jp/yuki/)
+本田 謙一 (国際航業株式会社 LBSセンシング事業部 RS・ソリューション部 衛星モニタリンググループ) [[www]](https://www.kkc.co.jp/)
 
-### 14:30-15:30 TBA
-Yunhan Du (東北大学 情報科学研究科) 
+### 14:30-16:00 ラウンドテーブル : 村域線推定とデータ整備に向けて
 
-### 16:00-17:00 Examining pedestrian flow from a microscopic perspective: simulation, experiments, and real-world management
-Xiaolu Jia (東京大学　航空宇宙工学) [[www]](http://park.itc.u-tokyo.ac.jp/tknishi/)
-
-## {{ page.enddate | date: "%Y/%m/%d (%a)" }}
-### 9:00-10:00 社会ネットワーク解析を用いた都市のレジリエンス研究
-Takahiro Yabe (MIT IDSS & Media Lab) [[www]](https://www.takayabe.net/)
-
-### 10:30-11:30 交通混雑を考慮したFujita and Ogawa（1982）モデルに基づく定量的都市経済モデルの開発
-杉本　達哉 (八千代エンジニヤリング株式会社 技術創発研究所) [[www]](https://www.yachiyo-eng.co.jp/riips/)<br>
-杉浦聡志（北海道大学　工学研究院） [[www]](https://researchmap.jp/kendge)<br>
-高山雄貴（東京工業大学　環境・社会理工学院）[[www]](https://sites.google.com/view/ytakayama/home)
 
 
 # Organizers
