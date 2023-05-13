@@ -15,6 +15,8 @@ title: "第8回 数理地理モデリング研究会 at 東北大学東京サテ
 
 [アクセスマップ](https://www.bureau.tohoku.ac.jp/somu/tokyo/access.html)
 
+[入館方法](https://www.bureau.tohoku.ac.jp/somu/tokyo/entry.html?id=ko)
+入館には事前登録が必要です．参加する方は，青木までご連絡ください．
 
 # Program
 ## {{ page.date | date: "%Y/%m/%d (%a)" }}
