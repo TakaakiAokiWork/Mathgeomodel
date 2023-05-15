@@ -15,7 +15,7 @@ title: "第8回 数理地理モデリング研究会 at 東北大学東京サテ
 
 [アクセスマップ](https://www.bureau.tohoku.ac.jp/somu/tokyo/access.html)
 
-# 入館についての諸注意
+## 入館についての諸注意
 [入館方法](https://www.bureau.tohoku.ac.jp/somu/tokyo/entry.html?id=ko)
 入館には事前登録が必要です．参加する方は，青木までご連絡ください．
 
@@ -24,8 +24,7 @@ title: "第8回 数理地理モデリング研究会 at 東北大学東京サテ
 ゲストカードでは分室の解錠施錠は出来ません。また、入退場は一度のみとなります（退場する時に回収されます。）
 一度退場されて、再入場される際は、事前登録が必要になります。
 予定がある場合は何時に再入館されるか6月16日（金）の昼12時までにお知らせください。
-詳しくは、分室のHPをご参照下さいませ。
-https://www.bureau.tohoku.ac.jp/somu/tokyo/entry.html?id=ko
+詳しくは、[分室のHP](https://www.bureau.tohoku.ac.jp/somu/tokyo/entry.html?id=ko)をご参照下さい。
 
 # Program
 ## {{ page.date | date: "%Y/%m/%d (%a)" }}
