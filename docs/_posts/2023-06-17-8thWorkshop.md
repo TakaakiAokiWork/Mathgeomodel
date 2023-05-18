@@ -38,7 +38,7 @@ title: "第8回 数理地理モデリング研究会 at 東北大学東京サテ
 
 # Organizers
 - Naoya FUJIWARA (Tohoku University) [[www]](https://www.is.tohoku.ac.jp/jp/laboratory/list_dept/c10.html)
-- Takaaki AOKI (Kagawa Universiy) [[www]](http://www.ed.kagawa-u.ac.jp/~aoki/)
+- Takaaki AOKI (Shiga Universiy) [[www]](https://takaakiaokiwork.github.io/)
 - Michio YAMADA (RIMS) [[www]](http://www.kurims.kyoto-u.ac.jp/en/list/YAMADA,%20Michio.html)
 - Satoshi MURAYAMA (Kagawa University) [[www]](http://researchmap.jp/read0188434/?lang=en)
 
