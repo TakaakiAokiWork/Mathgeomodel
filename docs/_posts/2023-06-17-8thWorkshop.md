@@ -26,6 +26,10 @@ title: "第8回 数理地理モデリング研究会 at 東北大学東京サテ
 予定がある場合は何時に再入館されるか6月16日（金）の昼12時までにお知らせください。
 詳しくは、[分室のHP](https://www.bureau.tohoku.ac.jp/somu/tokyo/entry.html?id=ko)をご参照下さい。
 
+## Zoom参加
+
+[参加リンク](https://shiga-u-ac-jp.zoom.us/meeting/register/tZUkfuCppjsuH93ssblXaxOPqXdT26qHwkTa)から登録ください
+
 # Program
 ## {{ page.date | date: "%Y/%m/%d (%a)" }}
 
@@ -38,7 +42,7 @@ title: "第8回 数理地理モデリング研究会 at 東北大学東京サテ
 
 # Organizers
 - Naoya FUJIWARA (Tohoku University) [[www]](https://www.is.tohoku.ac.jp/jp/laboratory/list_dept/c10.html)
-- Takaaki AOKI (Kagawa Universiy) [[www]](http://www.ed.kagawa-u.ac.jp/~aoki/)
+- Takaaki AOKI (Shiga Universiy) [[www]](https://takaakiaokiwork.github.io/)
 - Michio YAMADA (RIMS) [[www]](http://www.kurims.kyoto-u.ac.jp/en/list/YAMADA,%20Michio.html)
 - Satoshi MURAYAMA (Kagawa University) [[www]](http://researchmap.jp/read0188434/?lang=en)
 
