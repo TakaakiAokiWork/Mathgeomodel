@@ -46,8 +46,5 @@ title: "第8回 数理地理モデリング研究会 at 東北大学東京サテ
 - Michio YAMADA (RIMS) [[www]](http://www.kurims.kyoto-u.ac.jp/en/list/YAMADA,%20Michio.html)
 - Satoshi MURAYAMA (Kagawa University) [[www]](http://researchmap.jp/read0188434/?lang=en)
 
-
-<!-- 
 # Group Photos
-![groupphoto]({{ site.baseurl }}/assets/groupphoto-2022.jpg) 
--->
+![groupphoto]({{ site.baseurl }}/assets/8th.jpg) 
